@@ -1,2 +1,2 @@
-# Forecasting-em-Series-Temporais-com-Prophet
-Forecasting em Séries Temporais com Prophet
+# Séries Temporais - Forecasting com Prophet
+Séries Temporais - Forecasting com Prophet
